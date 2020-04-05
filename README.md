@@ -1,4 +1,4 @@
-# illness-clustering
+# illness-detection
 
 # Description of Analysis Conducted
 
