@@ -1,4 +1,4 @@
-# illness-detection
+# illness-detection-analysis
 
 # Description of Analysis Conducted
 
